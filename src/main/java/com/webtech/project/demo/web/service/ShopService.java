@@ -1,10 +1,10 @@
-package com.webech.project.demo.web.service;
+package com.webtech.project.demo.web.service;
 
 
-import com.webech.project.demo.web.api.ShopCreateRequest;
-import com.webech.project.demo.web.api.ShopItem;
-import com.webech.project.demo.web.persistence.ShopEntity;
-import com.webech.project.demo.web.persistence.ShopRepository;
+import com.webtech.project.demo.web.api.ShopCreateRequest;
+import com.webtech.project.demo.web.api.ShopItem;
+import com.webtech.project.demo.web.persistence.ShopEntity;
+import com.webtech.project.demo.web.persistence.ShopRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

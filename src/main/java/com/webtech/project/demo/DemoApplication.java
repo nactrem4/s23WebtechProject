@@ -1,4 +1,4 @@
-package com.webech.project.demo;
+package com.webtech.project.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

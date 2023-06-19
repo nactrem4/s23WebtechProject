@@ -1,4 +1,4 @@
-package com.webech.project.demo.web.api;
+package com.webtech.project.demo.web.api;
 
 public class ShopItem {
 

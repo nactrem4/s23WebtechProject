@@ -1,4 +1,4 @@
-package com.webech.project.demo.web.api;
+package com.webtech.project.demo.web.api;
 
 public class ShopCreateRequest {
 
@@ -11,6 +11,7 @@ public class ShopCreateRequest {
         this.artikelName = artikelName;
         this.wareVorhanden = wareVorhanden;
     }
+    public ShopCreateRequest() {}
 
     public long getId() {
         return id;

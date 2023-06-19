@@ -1,4 +1,4 @@
-package com.webech.project.demo.web.persistence;
+package com.webtech.project.demo.web.persistence;
 
 
 import jakarta.persistence.*;

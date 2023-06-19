@@ -1,10 +1,8 @@
-package com.webech.project.demo.web;
+package com.webtech.project.demo.web;
 
-import com.webech.project.demo.web.api.ShopCreateRequest;
-import com.webech.project.demo.web.api.ShopItem;
-import com.webech.project.demo.web.persistence.ShopEntity;
-import com.webech.project.demo.web.service.ShopService;
-import jakarta.persistence.Id;
+import com.webtech.project.demo.web.api.ShopCreateRequest;
+import com.webtech.project.demo.web.api.ShopItem;
+import com.webtech.project.demo.web.service.ShopService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
